@@ -1,2 +1,5 @@
 # Write your code here!
-game_hash = {}
+game_hash = {
+  :home => {},
+  :away => {}
+}
